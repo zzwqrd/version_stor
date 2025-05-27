@@ -1,6 +1,6 @@
 {
   "minimum_version": "1.0.0",
   "update_required": true,
-  "update_url_android": "https://play.google.com/store/apps/details?id=com.adahi.sa ",
-  "update_url_ios": "https://apps.apple.com/app/id123456789 "
+  "update_url_android": "https://play.google.com/store/apps/details?id=com.adahi.sa",
+  "update_url_ios": "https://apps.apple.com/app/id123456789"
 }
